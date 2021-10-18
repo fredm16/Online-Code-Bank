@@ -1,0 +1,7 @@
+These web pages are models based on
+previous exams of previous years for
+the web design module.
+All the task descriptions can be found
+on the NCI Archieve.
+These web pages are not mobile designed nor
+are they responsive

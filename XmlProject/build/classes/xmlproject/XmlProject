@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Project.xsl"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<contact>
+    <header>Contact Page</header>
+    
+    
+    <email href="mailto: davidbyrne@gmail.com">Email us here.</email>
+    <call href= "tel:0858869368">Call us here.</call>
+    <text href="sms:0858869368">Text us here. </text>
+    
+    <header2>This is the times you can contact us.</header2>
+    <day name= "Monday">
+        <starttime>9:00A.M.</starttime>
+        <endtime>5:00P.M.</endtime>
+    </day>
+    <day name= "Tuesday">
+        <starttime>9:00A.M.</starttime>
+        <endtime>5:00P.M.</endtime>
+    </day>
+    <day name= "Wednesday">
+        <starttime>9:00A.M.</starttime>
+        <endtime>2:30P.M.</endtime>
+    </day>
+    <day name= "Thursday">
+        <starttime>9:00A.M.</starttime>
+        <endtime>5:00P.M.</endtime>
+    </day>
+    <day name= "Friday">
+        <starttime>9:00A.M.</starttime>
+        <endtime>5:00P.M.</endtime>
+    </day>
+    <day name= "Saturday">
+        <starttime>11:00A.M.</starttime>
+        <endtime>1:00P.M.</endtime>
+    </day>
+    <day name= "Sundsy">
+        <closed>Closed</closed>
+    </day>
+    
+    <notice>Emails and Texts may take 2-5 business days to reply.</notice>
+</contact>

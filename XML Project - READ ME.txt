@@ -1,0 +1,4 @@
+This project demonstrated how myself and 3 other
+members of a group collaborated on a project
+to show our knowledge of building a basic webpage
+constisting of html, xml, xsl and an xsd (a type of scheme for xml)
